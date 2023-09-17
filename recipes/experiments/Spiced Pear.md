@@ -13,8 +13,8 @@ Ingredient count is for a single 16oz bottle. Scale to meet your needs.
 
 * Pear juice [4 Tbs]
 * Cinnamon [1/4 tsp]
-* Ground ginger [1 tsp]
-* 1F Kombucha [~16oz]
+* Ground ginger [1 tsp, ~1g]
+* 1F Black Tea Kombucha [~16oz]
 
 ### Instructions
 
