@@ -1,6 +1,8 @@
 # Cayenne Spice
 A warm, spicy flavor that's different than the common fruit flavors. Ginger and cayenne bring the spice, and lime balances it all out. 
 
+> Type: Black tea
+
 - [Ingredients](#Ingredients)
 - [Instructions](#Instructions)
 - [Final Product](#Final-Product)
@@ -13,7 +15,7 @@ Ingredient count is for a single 16oz bottle. Scale to meet your needs.
 * Grated ginger [1 Tbs very loosely packed, 4g]
 * Lime juice [1/2 a key lime]
 * Sugar [1 tsp] 
-* 1F Kombucha [~16oz]
+* 1F Black Tea Kombucha [~16oz]
 
 ### Instructions
 

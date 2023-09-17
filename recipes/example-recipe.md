@@ -2,6 +2,8 @@
 # [Recipe Name]
  This first paragraph is a brief couple of sentences describing the recipe and the flavors. Save more detailed notes for lower in the recipe.
 
+> Type: What starter type you're using
+
 - [Ingredients](#Ingredients)
 - [Instructions](#Instructions)
 - [Final Product](#Final-Product)

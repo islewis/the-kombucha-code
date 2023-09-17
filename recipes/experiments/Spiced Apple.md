@@ -1,6 +1,8 @@
 # Spiced Apple
 A warm and fruity flavor. 
 
+> Type: Black tea
+
 - [Ingredients](#Ingredients)
 - [Instructions](#Instructions)
 - [Final Product](#Final-Product)

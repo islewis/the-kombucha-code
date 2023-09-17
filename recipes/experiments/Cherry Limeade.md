@@ -2,6 +2,8 @@
 # Cherry Limeade
 A crisp and refreshing kombucha that is great for summer. A classic drink flavor combo that works amazing with kombucha. 
 
+> Type: Black tea
+
 - [Ingredients](#Ingredients)
 - [Instructions](#Instructions)
 - [Final Product](#Final-Product)

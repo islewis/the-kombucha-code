@@ -1,6 +1,9 @@
 
 # Blueberry Ginger
+
 A very fruity, and slightly spicy flavor that's super easy to make. Ginger complements the blueberry perfectly, and the end result comes out as a beautiful purple drink. Can easily be made with either fresh or frozen blueberries.
+
+> Type: Black tea
 
 - [Ingredients](#Ingredients)
 - [Instructions](#Instructions)
@@ -12,7 +15,7 @@ Ingredient count is for a single 16oz bottle. Scale to meet your needs.
 
 * Blueberries [1/4 Cup, 35g]
 * Grated ginger [1Tbs very loosely packed, 4g]
-* 1F Kombucha [~16oz]
+* 1F Black Tea Kombucha [~16oz]
 * Lemon juice [1/4 of a lemon]
 
 ### Instructions
