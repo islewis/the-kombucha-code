@@ -8,12 +8,17 @@ Once you have a scoby (Look here if you don't), you're ready to start brewing. T
 When preparing ingredients for a 1F, I start by deciding how many bottles of kombucha i'd like it to produce. This might be decided by how fast im drinking, or maybe just how many empty bottles I have on hand. The following ratios help address variable batch size, allowing you to customize the recipe to your needs. If this is your first brew, id recommend skipping to ###, which has a more concrete recipe to work with.  
 
 #### Scalable Batch Ratios
+Start by defining how large you want your batch to be. For an imaginary 1 gallon container, the target would be 16 cups. 
 
-- Water: `N` Cups of water. If you want 16 cups of kombucha, start with 16 cups of water.
-- Kombucha starter: 15% volume of your water. For our example of 16 cups, you should use (16cups x .15 = 2.4cups) about 2.5 cups of previous 1F kombucha. If this is your 1st batch, use the tea you've grown your scoby in.
-- Sugar: 7% volume of your water. For 16 cups, you should use (16cups x .7 = 1.1cups) just over a cup of sugar. 
-- Tea Bags: For every 2 cups of total liquid, use 1 tea bag. For example, 16(water) + 2(kombucha) = 18 (liquid). 18 / 2 = 9(teabags). Don't worry if it doesn't devide out perfectly.
+- Water: 85% volume of your target. For a target of 16, you would need (16 * .85 = 13.6) cups of water.  
+- Kombucha starter: 15% volume of target. For our example of 16 cups, you should use (16cups x .15 = 2.4cups) about 2.5 cups of previous 1F kombucha. If this is your 1st batch, use the tea you've grown your scoby in.
+- Sugar: 6.5% volume of the target. For 16 cups, you should use (16cups x .065 = 1.04cups) just about a cup of sugar. 
+- Tea Bags: For every 2 cups of the target, use 1 tea bag. Per our example, 16 / 2 = 8(teabags). Don't worry if it doesn't devide out perfectly.
 - 1 Scoby
+
+We're in a kitchen, not a rocket lab. If the ratio calls for 1.3 cups, round up OR down- it'll be alright. 
+
+You might have noticed that these rations add to above 100%. This accounts for evaporation, spillage, and other losses. If you end up with a tad extra tea at the end, drink it!
 
 #### Simple batch measurements
 
@@ -24,7 +29,8 @@ When preparing ingredients for a 1F, I start by deciding how many bottles of kom
 - 1 Scoby
 
 ### Instructions
-1. Add 3 cups of water to a pot, and bring to a boil. Once boiling, add sugar, and remove from the heat. Mix until sugar is desolved, add your teabags, letting steep for ~30min.
+1. Add 3 cups of water to a pot, and bring to a boil.
+2. Once boiling, add in sugar. Mix until sugar is desolved, and take of heat. Add your teabags, letting steep for 15-20min.
 2. Remove the teabags, and add the rest of the water to the pot.
 3. If your tea is still hot, wait until it has cooled off. Once it is room tempature, add tea to your glass jar, in addition to your storebought kombucha.
 4. Add your scoby to the jar. Be sure to handle any scoby carefully. If using your hands to move it, throughly wash your hands before.
