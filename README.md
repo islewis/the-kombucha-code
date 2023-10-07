@@ -1,6 +1,6 @@
 # The Kombucha Code
 
-The Kombucha Code is a living body of Kombucha knowledge, inspired by [https://github.com/hendricius/the-bread-code](the-bread-code). Included are recipies, photo documentation, and answers to frequently asked questions. 
+The Kombucha Code is a living body of Kombucha knowledge, inspired by [the-bread-code](https://github.com/hendricius/the-bread-code). Included are recipies, photo documentation, and answers to frequently asked questions. 
 
 # Why Git?
 Any of the recipes in this repo are:
