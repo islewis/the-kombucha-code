@@ -1,5 +1,5 @@
 # Spiced Pear
-A warm and fruity flavor. 
+A warm and fruity flavor, with a very similar flavor profile to the Spiced Apple flavor. 
 
 > Type: Black tea
 
@@ -24,7 +24,7 @@ Ingredient count is for a single 16oz bottle. Scale to meet your needs.
 
 2. Add grated ginger, Cinnamon, and pear juice into bottles.
 
-3. Top off with your 1F kombucha. Flip your bottle a few times to distribute cinnamon
+3. Top off with your 1F kombucha. Flip your bottle a few times until ginger and spices are distrubted evenly. 
 
 #### 2nd Fermentation
 
@@ -37,3 +37,4 @@ Ingredient count is for a single 16oz bottle. Scale to meet your needs.
 [Add photo]
 
 ### Notes 
+[1st brew](https://github.com/islewis/the-kombucha-code/commit/c0e4f88d76cfadbd53bfb451a2ff7b43b6398d7f) was delicious, and very enjoyable. Was missing a tiny bit of flavor depth, I'd like to try adding a bit of nutmeg or possibly allspice.
