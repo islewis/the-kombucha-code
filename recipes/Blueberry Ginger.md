@@ -47,6 +47,8 @@ Ingredient count is for a single 16oz bottle. Scale to meet your needs.
 
 ### Notes 
 
+* Can replace the 1/4 lemon with lime if needed. 1/2 a small lime, or 1/4 a large one
+
 * This recipe can produce varying result based on the blueberries you use. If both 1F and 2F were long enough, and your drink is still not carbonated enough, try adding some sugar to the next batch. 
 
 * Ginger content is easy to change. Adjust ginger content to your preference.
